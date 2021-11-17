@@ -1,0 +1,13 @@
+{
+  "costumes": [
+    {
+      "bitmapResolution": 1,
+      "name": "Stage",
+      "path": "bg.png"
+    }
+  ],
+  "currentCostumeIndex": 0,
+  "zorder": [
+    "Calf"
+  ]
+}

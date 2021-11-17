@@ -1,0 +1,5 @@
+var (
+	Calf Calf
+)
+
+run "res", {Title: "Hello world (by Go+ spx engine)"}
