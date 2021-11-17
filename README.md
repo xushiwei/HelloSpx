@@ -13,5 +13,4 @@ HelloSpx - Hello world of Go+ spx game engine
 - Download this game and run.
   * git clone https://github.com/xushiwei/HelloSpx.git
   * cd HelloSpx
-  * go mod tidy
-  * gop run .
+  * ./run.sh
