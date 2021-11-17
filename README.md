@@ -1,4 +1,4 @@
-Gobang - HelloSpx - Hello world of Go+ spx game engine
+HelloSpx - Hello world of Go+ spx game engine
 =========
 
 [![Language](https://img.shields.io/badge/language-Go+-blue.svg)](https://github.com/goplus/gop)
